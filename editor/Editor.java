@@ -353,7 +353,7 @@ public class Editor extends Application {
         root.getChildren().add(cursor);
         makeCursorBlink();
 
-        primaryStage.setTitle("FINAL REVISED UPDATED INCOMPLETE EDITOR ...");
+        primaryStage.setTitle("Editor");
 
         // This is boilerplate, necessary to setup the window where things are displayed.
         primaryStage.setScene(scene);
